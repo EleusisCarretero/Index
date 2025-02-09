@@ -13,7 +13,7 @@
     Python Appium and Pytest.
 
 #### Test API testing
-- [users_data_api](https://github.com/EleusisCarretero/users_data_api)
+- [api_test_swagger_petstore](https://github.com/EleusisCarretero/api_test_swagger_petstore)
     This repository caintains the automated test cases for a pet store server.
   
 #### Common testing utilities
