@@ -11,6 +11,10 @@
 - [native-app-automation](https://github.com/EleusisCarretero/native-app-automation)
     This repository conatins the automates test cases to evalare the functionaly of native apps for an Android cellphone by using 
     Python Appium and Pytest.
+
+#### Test API testing
+[users_data_api](https://github.com/EleusisCarretero/users_data_api)
+    This repository caintains the automated test cases for a pet store server.
   
 #### Common testing utilities
 - [test-utils](https://github.com/EleusisCarretero/test_utils)
