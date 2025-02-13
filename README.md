@@ -1,6 +1,12 @@
 # Índice de Proyectos
 
-## Automation
+## Web development
+### Front-End
+#### Javascript
+- [weather_dashboard](https://github.com/EleusisCarretero/wheather_dashboard)
+  On this web page you can find the current weather conditions on a city:  [Web page link](https://eleusiscarretero.github.io/wheather_dashboard)
+
+## Test Automation
 ### Python
 #### Selenium
 - [basic_ecommerce_test_automation](https://github.com/EleusisCarretero/basic_ecommerce_test_automation)
