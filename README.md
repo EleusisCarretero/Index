@@ -1,48 +1,61 @@
-# Project index
+# ⚙️ Test Automation Portfolio ⚙️
 
-## Test Automation
+This repository serves as an index for my automation projects, organized by language and testing type.
 
-### Python
-#### Selenium + Pytest
-- [basic_ecommerce_test_automation](https://github.com/EleusisCarretero/basic_ecommerce_test_automation)
-    This repository contains the automates test cases to evaluate the functionality of a basic ecomers page by using Python,
-    Seleniums and Pytest.
-  
-#### Appium + Pytest
-- [native-app-automation](https://github.com/EleusisCarretero/native-app-automation)
-    This repository conatins the automates test cases to evalare the functionaly of native apps for an Android cellphone by using 
-    Python Appium and Pytest.
+---
 
-#### Test API testing: Pytest
-- [api_test_swagger_petstore](https://github.com/EleusisCarretero/api_test_swagger_petstore)
-    This repository caintains the automated test cases for a pet store server.
-  
-#### Common testing utilities
-- [test-utils](https://github.com/EleusisCarretero/test_utils)
-      This repositorie contanis common test utilities that can be used as a installable package. At the moment it includes a logger
-      manager and result manager.
+## 🐍 Python
 
-### Java
-#### Selenium + TestNG
-- [automation-framework](https://github.com/EleusisCarretero/automation-framework)
-    This project contains an automation framework to validate different automation test cases from [automationexercise](https://automationexercise.com/)
+### 🌐 UI Web Testing: Selenium + Pytest
+- [basic_ecommerce_test_automation](https://github.com/EleusisCarretero/basic_ecommerce_test_automation)  
+  Automated test cases to validate the functionality of a basic e-commerce page using Python, Selenium, and Pytest.
 
-### JS/JS
-#### Web Testing: Playwrite + Cucucmber
-- [orangehrm-automation-test](https://github.com/EleusisCarretero/orangehrm-automation-test)
-    This project is an automation framework using TS + Playwrite + Cucucmber to validate the webpage [opensource-demo.orangehrmlive](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
-### API testing: Chai
+### 📱 UI Mobile Testing: Appium + Pytest
+- [native-app-automation](https://github.com/EleusisCarretero/native-app-automation)  
+  Automated test cases to validate the functionality of native Android apps using Python, Appium, and Pytest.
 
-## API Development
-### JS/TS
-- [api-data-testcases](https://github.com/EleusisCarretero/api-data-testcases)
-    This project contains an API that read/writes information about the test cases state in a data base in MongoDB Atlas.
-    
+### 🔌 API Testing: Pytest
+- [api_test_swagger_petstore](https://github.com/EleusisCarretero/api_test_swagger_petstore)  
+  Automated API test cases for the Swagger Petstore server.
 
-## Web development
-### Front-End
-#### Javascript
-- [weather_dashboard](https://github.com/EleusisCarretero/wheather_dashboard)
-  On this web page you can find the current weather conditions on a city:  [Web page link](https://eleusiscarretero.github.io/wheather_dashboard)
+### 🛠️ Common Utilities
+- [test-utils](https://github.com/EleusisCarretero/test_utils)  
+  Reusable testing utilities packaged as a Python module. Currently includes a logger manager and a result manager.
 
+---
 
+## ☕ Java
+
+### 🌐 UI Web Testing: Selenium + TestNG
+- [automation-framework](https://github.com/EleusisCarretero/automation-framework)  
+  Automation framework to validate test cases on [Automation Exercise](https://automationexercise.com/) using Selenium and TestNG.
+
+---
+
+## ⚡ JavaScript / TypeScript
+
+### 🌐 UI Web Testing: Playwright + Cucumber
+- [orangehrm-automation-test](https://github.com/EleusisCarretero/orangehrm-automation-test)  
+  Automation framework using TypeScript, Playwright, and Cucumber to validate the [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login).
+
+### 🔌 API Testing: Mocha + Chai
+- [api-data-testcases](https://github.com/EleusisCarretero/api-data-testcases)  
+  API service to read and write test case execution data into MongoDB Atlas.
+
+---
+
+## 🧩 API Development
+
+### ⚡ JavaScript / TypeScript
+
+#### 📊 DB: MongoDB
+- [api-data-testcases](https://github.com/EleusisCarretero/api-data-testcases)  
+  REST API that reads/writes test case state to MongoDB Atlas (for storing and querying test execution data).
+
+---
+
+## 🌐 Web Development
+
+### 🖼️ Front-End: JavaScript
+- [weather_dashboard](https://github.com/EleusisCarretero/wheather_dashboard)  
+  Web application that displays current weather conditions by city. [Live demo](https://eleusiscarretero.github.io/wheather_dashboard)
